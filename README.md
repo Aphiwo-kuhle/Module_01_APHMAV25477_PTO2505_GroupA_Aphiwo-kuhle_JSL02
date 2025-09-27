@@ -1,4 +1,4 @@
-# 📌 JSL02 Task Input and Status Validation System
+z# 📌 JSL02 Task Input and Status Validation System
 
 ## 📖 Project Overview
 This project is part of my CodeSpace bootcamp.  
@@ -42,12 +42,26 @@ project-folder/
 ---
 
 ## 🖼️ Screenshots
-👉 *(https://github.com/Aphiwo-kuhle/Module_01_APHMAV25477_PTO2505_GroupA_Aphiwo-kuhle_JSL02/blob/main/explainer-images/image.png)*  
 
-Example:
-- Screenshot of the **prompt input**  
-- Screenshot of the **console output when tasks are done**  
-- Screenshot of the **console output when no tasks are done**
+- The program must prompt users for task 1 title, descrition and status inputs, it must do the same for task 2 information
+
+  ![title prompt](./explainer-images/title%20prompt.png)
+
+**Invalid status**
+
+- If the user enters a status other than `todo`, `doing` or `done`, the program must alert the user of this and return to prompting them to enter a status.
+
+  ![invalid status](./explainer-images/invalid%20status.png)
+
+**Console log**
+
+- When there is a completed task:
+
+  ![invalid status](./explainer-images/completed%20task%20log.png)
+
+- When there are no completed tasks:
+
+  ![invalid status](./explainer-images/no%20completed%20tasks%20log.png)
 
 ---
 
@@ -70,24 +84,3 @@ Example:
 💡 *This project helped me understand user input handling, validation loops, and how to organize code for maintainability.*
 
 
-**Prompt Input Example**
-
-- The program must prompt users for task 1 title, descrition and status inputs, it must do the same for task 2 information
-
-  ![title prompt](./explainer-images/title%20prompt.png)
-
-**Invalid status**
-
-- If the user enters a status other than `todo`, `doing` or `done`, the program must alert the user of this and return to prompting them to enter a status.
-
-  ![invalid status](./explainer-images/invalid%20status.png)
-
-**Console log**
-
-- When there is a completed task:
-
-  ![invalid status](./explainer-images/completed%20task%20log.png)
-
-- When there are no completed tasks:
-
-  ![invalid status](./explainer-images/no%20completed%20tasks%20log.png)
