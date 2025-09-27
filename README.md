@@ -42,7 +42,7 @@ project-folder/
 ---
 
 ## 🖼️ Screenshots
-👉 *(Paste your screenshots here)*  
+👉 *(https://github.com/Aphiwo-kuhle/Module_01_APHMAV25477_PTO2505_GroupA_Aphiwo-kuhle_JSL02/blob/main/explainer-images/image.png)*  
 
 Example:
 - Screenshot of the **prompt input**  
