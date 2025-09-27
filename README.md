@@ -1,4 +1,4 @@
-z# 📌 JSL02 Task Input and Status Validation System
+# 📌 JSL02 Task Input and Status Validation System
 
 ## 📖 Project Overview
 This project is part of my CodeSpace bootcamp.  
