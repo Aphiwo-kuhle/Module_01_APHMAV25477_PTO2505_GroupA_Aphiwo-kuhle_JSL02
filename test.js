@@ -53,7 +53,7 @@ if (completedTasks.length > 0) {
   console.log("No tasks completed, let's get to work!");
 }
 
-
+// THE END OF THE PROGRAM😎
 
 
  
